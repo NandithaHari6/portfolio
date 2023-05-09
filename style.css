@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0px;
+    /* padding:20px; */
+    background-color:lightpink;
+
+}
+img{padding :15px;
+    height:200px;
+    float: right;
+}
+h3{
+    font-size: 50px;
+    text-align: center;
+    color: midnightblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header{
+    /* height: 20vw; */
+    font-size: larger;
+    text-align: center;
+    background: rgb(63,126,251);
+background: linear-gradient(90deg, rgba(63,126,251,1) 0%, rgba(252,70,85,1) 100%);
+padding:25px;
+font-size:60px ;
+color:darkred;
+    position:static;
+}
+.about,.edu,p,.contact{
+
+    font-family:"Ysabeau";
+    font-size:30px;
+}
+nav{
+    background-color: hotpink;
+    color: blue;
+    padding:0px;
+
+}
+nav a{
+    text-decoration: none;
+    font-size:40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 10px 50px;
+}
+   
+main{
+    padding:10px 100px;
+}
+
+
